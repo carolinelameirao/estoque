@@ -1,0 +1,30 @@
+{
+  "fornecedor": [
+    {
+      "razaoSocial": "User example",
+      "cnpj": "12345678901236",
+      "telefone": "12121212121212121212",
+      "email": "user.exemplo@test.com",
+      "logradouro": "Rua XYZ",
+      "numero": 123,
+      "bairro": "Centro",
+      "cidade": "Rio de Janeiro",
+      "cep": "20000000",
+      "estado": "Rio de Janeiro",
+      "id": 1
+    },
+    {
+      "razaoSocial": "CL Code Digital",
+      "cnpj": "26326526526562",
+      "telefone": "265265222652626",
+      "email": "clcodedigital@gmail.com",
+      "logradouro": "Rua da Flor",
+      "numero": 123,
+      "bairro": "Centro",
+      "cidade": "Duque de Caxias",
+      "estado": "Rio de Janeiro",
+      "cep": "252525252",
+      "id": 2
+    }
+  ]
+}
